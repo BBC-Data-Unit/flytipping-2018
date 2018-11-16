@@ -29,3 +29,9 @@ Visuals were made either in R using ggplot2 or within the BBC’s in house “in
 * Histogram: Fly-tipping incidents in England, 2007-2018
 * Bar chart: Areas of England with the highest rates of fly-tipping
 * Feedback form: *"What do you want to know about fly-tipping? Use the form below to ask us and we could be in touch."
+
+## Related stories and repos
+
+This is the third story the unit has done on fly-tipping. In October last year we reported [Fly-tipping costs taxpayers £58m in clean-up costs](https://github.com/BBC-Data-Unit/flytipping-costs) and in September the year before that we published the story [How do you stop fly-tipping and littering?](https://github.com/BBC-Data-Unit/flytipping).
+
+You can [find all of the repos for these stories tagged 'flytipping'](https://github.com/search?q=topic%3Aflytipping+org%3ABBC-Data-Unit&type=Repositories)
